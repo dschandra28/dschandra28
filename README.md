@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @dschandra28
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @dschandra28 (Satish Chandra Diggavalli)  
+- 👀 I’m interested in building AI-powered applications, full-stack development, and innovative solutions using Salesforce and Generative AI.  
+- 🌱 I’m currently learning advanced AI techniques, Hugging Face Spaces, and real-time video processing for sports analytics.  
+- 💞️ I’m looking to collaborate on AI + Salesforce integration projects, intelligent automation, and open-source initiatives in sports tech or smart energy systems.  
+- 📫 How to reach me:  
+  - Email: dschandra28@gmail.com  
+  - LinkedIn: [linkedin.com/in/satish-chandra-diggavalli-873763210](https://www.linkedin.com/in/satish-chandra-diggavalli-873763210)  
+  - GitHub: [github.com/dschandra28](https://github.com/dschandra28)  
 
-<!---
-dschandra28/dschandra28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I’m developing a cricket DRS system using AI and drone tech for smart sports review automation!
