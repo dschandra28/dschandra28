@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI + Salesforce integration projects, intelligent automation, and open-source initiatives in sports tech or smart energy systems.  
 - 📫 How to reach me:  
   - Email: dschandra28@gmail.com  
-  - LinkedIn: [linkedin.com/in/satish-chandra-diggavalli-873763210](https://www.linkedin.com/in/satish-chandra-diggavalli-873763210)  
+  - LinkedIn: [https://www.linkedin.com/in/satish-chandra-diggavalli/](https://www.linkedin.com/in/satish-chandra-diggavalli/)  
   - GitHub: [github.com/dschandra28](https://github.com/dschandra28)  
 
 - 😄 Pronouns: He/Him  
